@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IAMU_logo.svg/320px-IAMU_logo.svg.png" width="120" alt="IAMU Logo" />
+  <img src="https://www.imu.edu.in/imunew/public/images/logo.png" width="120" alt="IAMU Logo" />
 </p>
 
 <h1 align="center">📘 IAMUC 2024 – Research Paper Repository</h1>
