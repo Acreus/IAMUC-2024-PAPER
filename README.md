@@ -16,7 +16,7 @@
 
 This repository contains all project materials submitted for **IAMUC 2024**, authored by Anindya Mukherjee, Ayush Deep, and Archisman Mandal.
 
-> 📄 **Paper Title**: *[Analysis and Validation of Fresnel-Lens based Solar Heat Accumulator for Auxiliary System of Passive Solar Distillation Device]*  
+> 📄 **Paper Title**: *Analysis and Validation of Fresnel-Lens based Solar Heat Accumulator for Auxiliary System of Passive Solar Distillation Device*  
 > 🎯 **Objective**: Determine the requisite lens size and quantify the efficiency increase offered by auxiliary system for passive desalinator   
 > 🧪 **Methodology**: Ansys Speos used for the determination of the ideal focal length, and numerical methods of interpolation were used for determination of emperical formulas for estimating volume of freshwater production.  
 
