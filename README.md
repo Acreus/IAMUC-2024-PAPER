@@ -27,8 +27,7 @@ This repository contains all project materials submitted for **IAMUC 2024**, aut
 
 A short visual explanation of the project is available on Canva:
 
-👉 [**Watch Demo on Canva**](https://www.canva.com/design/your-demo-link)  
-*(*Replace with your actual Canva presentation/video link*)*
+👉 [**Watch Demo on Canva**](https://www.canva.com/design/DAGOlfPIZG0/lFZ6ciHdut0cTIczvk0K9g/edit?utm_content=DAGOlfPIZG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
 
