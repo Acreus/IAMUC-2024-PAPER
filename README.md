@@ -14,12 +14,11 @@
 
 ## 🧠 Overview
 
-This repository contains all project materials submitted for **IAMUC 2024**, authored by Ayush Deep and Archisman Mandal.
+This repository contains all project materials submitted for **IAMUC 2024**, authored by Anindya Mukherjee, Ayush Deep, and Archisman Mandal.
 
-> 📄 **Paper Title**: *[Insert Full Paper Title Here]*  
-> 🎯 **Objective**: [Write a one-line objective here]  
-> 🧪 **Methodology**: [Briefly mention setup/simulation/hardware used]  
-> 📈 **Key Result**: [Summarize key output or insight]
+> 📄 **Paper Title**: *[Analysis and Validation of Fresnel-Lens based Solar Heat Accumulator for Auxiliary System of Passive Solar Distillation Device]*  
+> 🎯 **Objective**: Determine the requisite lens size and quantify the efficiency increase offered by auxiliary system for passive desalinator   
+> 🧪 **Methodology**: Ansys Speos used for the determination of the ideal focal length, and numerical methods of interpolation were used for determination of emperical formulas for estimating volume of freshwater production.  
 
 ---
 
@@ -35,7 +34,7 @@ A short visual explanation of the project is available on Canva:
 
 | 📂 File/Folder           | 📝 Description                                                  |
 |------------------------|---------------------------------------------------------------|
-| `PCB/`                 | PCB layouts and schematic files for hardware development.     |
+| `PCB`                 | PCB layouts and schematic files for hardware development.     |
 | `Setup.stp`            | Full 3D STEP file of the mechanical design.                   |
 | `Setup.3dm`            | 3D model in Rhino/3DM format.                                 |
 | `Final_Calc_IAMU.xlsx` | Spreadsheet with calculation tables and design validation.    |
